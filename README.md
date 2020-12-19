@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+My name is Mariana Martinez and I am currently learning Python and SQL. You can find my projects here! 
+
 <!--
 **mariamartz/mariamartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
