@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Mariana Martinez and I am currently learning Python and SQL. You can find my projects here! 
+My name is Mariana Martinez and I love Python, SQL, and design ... oh an also ice cream
 
 <!--
 **mariamartz/mariamartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
